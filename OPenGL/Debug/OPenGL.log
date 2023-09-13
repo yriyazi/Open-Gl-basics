@@ -1,0 +1,6 @@
+﻿  all_includes.h
+  ScaleByTime_Centered.cpp
+  main.cpp
+  Generating Code...
+LINK : warning LNK4098: defaultlib 'MSVCRT' conflicts with use of other libs; use /NODEFAULTLIB:library
+  OPenGL.vcxproj -> E:\06-09-23\OpenGL\OPenGL_00_13\Debug\OPenGL.exe

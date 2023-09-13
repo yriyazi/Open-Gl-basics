@@ -1,0 +1,67 @@
+﻿ScaleByTime_Centered.obj : error LNK2019: unresolved external symbol __imp_glewInit referenced in function "int __cdecl vvmain(void)" (?vvmain@@YAHXZ)
+main.obj : error LNK2001: unresolved external symbol __imp_glewInit
+ScaleByTime_Centered.obj : error LNK2019: unresolved external symbol glfwInit referenced in function "int __cdecl vvmain(void)" (?vvmain@@YAHXZ)
+main.obj : error LNK2001: unresolved external symbol glfwInit
+ScaleByTime_Centered.obj : error LNK2019: unresolved external symbol glfwTerminate referenced in function "int __cdecl vvmain(void)" (?vvmain@@YAHXZ)
+main.obj : error LNK2001: unresolved external symbol glfwTerminate
+ScaleByTime_Centered.obj : error LNK2019: unresolved external symbol glfwCreateWindow referenced in function "int __cdecl vvmain(void)" (?vvmain@@YAHXZ)
+main.obj : error LNK2001: unresolved external symbol glfwCreateWindow
+ScaleByTime_Centered.obj : error LNK2019: unresolved external symbol glfwWindowShouldClose referenced in function "int __cdecl vvmain(void)" (?vvmain@@YAHXZ)
+main.obj : error LNK2001: unresolved external symbol glfwWindowShouldClose
+ScaleByTime_Centered.obj : error LNK2019: unresolved external symbol glfwGetFramebufferSize referenced in function "int __cdecl vvmain(void)" (?vvmain@@YAHXZ)
+main.obj : error LNK2001: unresolved external symbol glfwGetFramebufferSize
+ScaleByTime_Centered.obj : error LNK2019: unresolved external symbol glfwPollEvents referenced in function "int __cdecl vvmain(void)" (?vvmain@@YAHXZ)
+main.obj : error LNK2001: unresolved external symbol glfwPollEvents
+ScaleByTime_Centered.obj : error LNK2019: unresolved external symbol glfwGetTime referenced in function "int __cdecl vvmain(void)" (?vvmain@@YAHXZ)
+main.obj : error LNK2001: unresolved external symbol glfwGetTime
+ScaleByTime_Centered.obj : error LNK2019: unresolved external symbol glfwMakeContextCurrent referenced in function "int __cdecl vvmain(void)" (?vvmain@@YAHXZ)
+main.obj : error LNK2001: unresolved external symbol glfwMakeContextCurrent
+ScaleByTime_Centered.obj : error LNK2019: unresolved external symbol glfwSwapBuffers referenced in function "int __cdecl vvmain(void)" (?vvmain@@YAHXZ)
+main.obj : error LNK2001: unresolved external symbol glfwSwapBuffers
+ScaleByTime_Centered.obj : error LNK2019: unresolved external symbol __imp___glewBindBuffer referenced in function "int __cdecl vvmain(void)" (?vvmain@@YAHXZ)
+main.obj : error LNK2001: unresolved external symbol __imp___glewBindBuffer
+ScaleByTime_Centered.obj : error LNK2019: unresolved external symbol __imp___glewBufferData referenced in function "int __cdecl vvmain(void)" (?vvmain@@YAHXZ)
+main.obj : error LNK2001: unresolved external symbol __imp___glewBufferData
+ScaleByTime_Centered.obj : error LNK2019: unresolved external symbol __imp___glewDeleteBuffers referenced in function "int __cdecl vvmain(void)" (?vvmain@@YAHXZ)
+ScaleByTime_Centered.obj : error LNK2019: unresolved external symbol __imp___glewGenBuffers referenced in function "int __cdecl vvmain(void)" (?vvmain@@YAHXZ)
+main.obj : error LNK2001: unresolved external symbol __imp___glewGenBuffers
+ScaleByTime_Centered.obj : error LNK2019: unresolved external symbol __imp___glewAttachShader referenced in function "int __cdecl vvmain(void)" (?vvmain@@YAHXZ)
+main.obj : error LNK2001: unresolved external symbol __imp___glewAttachShader
+ScaleByTime_Centered.obj : error LNK2019: unresolved external symbol __imp___glewCompileShader referenced in function "int __cdecl vvmain(void)" (?vvmain@@YAHXZ)
+main.obj : error LNK2001: unresolved external symbol __imp___glewCompileShader
+ScaleByTime_Centered.obj : error LNK2019: unresolved external symbol __imp___glewCreateProgram referenced in function "int __cdecl vvmain(void)" (?vvmain@@YAHXZ)
+main.obj : error LNK2001: unresolved external symbol __imp___glewCreateProgram
+ScaleByTime_Centered.obj : error LNK2019: unresolved external symbol __imp___glewCreateShader referenced in function "int __cdecl vvmain(void)" (?vvmain@@YAHXZ)
+main.obj : error LNK2001: unresolved external symbol __imp___glewCreateShader
+ScaleByTime_Centered.obj : error LNK2019: unresolved external symbol __imp___glewDeleteProgram referenced in function "int __cdecl vvmain(void)" (?vvmain@@YAHXZ)
+ScaleByTime_Centered.obj : error LNK2019: unresolved external symbol __imp___glewDeleteShader referenced in function "int __cdecl vvmain(void)" (?vvmain@@YAHXZ)
+ScaleByTime_Centered.obj : error LNK2019: unresolved external symbol __imp___glewEnableVertexAttribArray referenced in function "int __cdecl vvmain(void)" (?vvmain@@YAHXZ)
+main.obj : error LNK2001: unresolved external symbol __imp___glewEnableVertexAttribArray
+ScaleByTime_Centered.obj : error LNK2019: unresolved external symbol __imp___glewGetUniformLocation referenced in function "int __cdecl vvmain(void)" (?vvmain@@YAHXZ)
+main.obj : error LNK2001: unresolved external symbol __imp___glewGetUniformLocation
+ScaleByTime_Centered.obj : error LNK2019: unresolved external symbol __imp___glewLinkProgram referenced in function "int __cdecl vvmain(void)" (?vvmain@@YAHXZ)
+main.obj : error LNK2001: unresolved external symbol __imp___glewLinkProgram
+ScaleByTime_Centered.obj : error LNK2019: unresolved external symbol __imp___glewShaderSource referenced in function "int __cdecl vvmain(void)" (?vvmain@@YAHXZ)
+main.obj : error LNK2001: unresolved external symbol __imp___glewShaderSource
+ScaleByTime_Centered.obj : error LNK2019: unresolved external symbol __imp___glewUniform1f referenced in function "int __cdecl vvmain(void)" (?vvmain@@YAHXZ)
+ScaleByTime_Centered.obj : error LNK2019: unresolved external symbol __imp___glewUniform2f referenced in function "int __cdecl vvmain(void)" (?vvmain@@YAHXZ)
+ScaleByTime_Centered.obj : error LNK2019: unresolved external symbol __imp___glewUseProgram referenced in function "int __cdecl vvmain(void)" (?vvmain@@YAHXZ)
+main.obj : error LNK2001: unresolved external symbol __imp___glewUseProgram
+ScaleByTime_Centered.obj : error LNK2019: unresolved external symbol __imp___glewVertexAttribPointer referenced in function "int __cdecl vvmain(void)" (?vvmain@@YAHXZ)
+main.obj : error LNK2001: unresolved external symbol __imp___glewVertexAttribPointer
+ScaleByTime_Centered.obj : error LNK2019: unresolved external symbol __imp___glewBindVertexArray referenced in function "int __cdecl vvmain(void)" (?vvmain@@YAHXZ)
+main.obj : error LNK2001: unresolved external symbol __imp___glewBindVertexArray
+ScaleByTime_Centered.obj : error LNK2019: unresolved external symbol __imp___glewDeleteVertexArrays referenced in function "int __cdecl vvmain(void)" (?vvmain@@YAHXZ)
+ScaleByTime_Centered.obj : error LNK2019: unresolved external symbol __imp___glewGenVertexArrays referenced in function "int __cdecl vvmain(void)" (?vvmain@@YAHXZ)
+main.obj : error LNK2001: unresolved external symbol __imp___glewGenVertexArrays
+main.obj : error LNK2019: unresolved external symbol glfwWindowHint referenced in function main
+main.obj : error LNK2019: unresolved external symbol glfwDestroyWindow referenced in function main
+main.obj : error LNK2019: unresolved external symbol __imp___glewGetProgramInfoLog referenced in function "void __cdecl CompileShader(void)" (?CompileShader@@YAXXZ)
+main.obj : error LNK2019: unresolved external symbol __imp___glewGetProgramiv referenced in function "void __cdecl CompileShader(void)" (?CompileShader@@YAXXZ)
+main.obj : error LNK2019: unresolved external symbol __imp___glewGetShaderInfoLog referenced in function "void __cdecl addShader(unsigned int,char const *,unsigned int)" (?addShader@@YAXIPEBDI@Z)
+main.obj : error LNK2019: unresolved external symbol __imp___glewGetShaderiv referenced in function "void __cdecl addShader(unsigned int,char const *,unsigned int)" (?addShader@@YAXIPEBDI@Z)
+main.obj : error LNK2019: unresolved external symbol __imp___glewUniformMatrix4fv referenced in function main
+main.obj : error LNK2019: unresolved external symbol __imp_glewExperimental referenced in function main
+E:\T - Programming\C++\Graphic\OpenGL\OPenGL_00_13\\library\GLEW\lib\Release\Win32\glew32.lib : warning LNK4272: library machine type 'x86' conflicts with target machine type 'x64'
+E:\T - Programming\C++\Graphic\OpenGL\OPenGL_00_13\\\library\GLFW\lib-vc2022\glfw3.lib : warning LNK4272: library machine type 'x86' conflicts with target machine type 'x64'
+E:\T - Programming\C++\Graphic\OpenGL\OPenGL_00_13\x64\Debug\OPenGL.exe : fatal error LNK1120: 39 unresolved externals
